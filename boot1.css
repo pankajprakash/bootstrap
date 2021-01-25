@@ -1,0 +1,88 @@
+
+body{
+    font-family: 'Potta One', cursive;
+}
+.para
+{
+    text-align: justify;
+    font-size: 14px;
+    padding: 20px;
+}
+.third
+{
+    text-align: justify;
+}
+
+.fourth
+{
+    text-align: justify;
+}
+
+.image
+{
+    background:url(/images/featured_slide1.png);
+    background-size: 100% 100%;
+  
+    background-size: cover;
+}
+
+.img1
+{
+    
+    padding:20px;
+}
+
+.fifth
+{
+    text-align: justify;
+}
+p
+{
+    color: black;
+    padding:20px;
+}
+
+
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+  
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }
+  
+  .fa-google {
+    background: #dd4b39;
+    color: white;
+  }
+  
+  .fa-linkedin {
+    background: #007bb5;
+    color: white;
+  }
+  
+  .fa-youtube {
+    background: #bb0000;
+    color: white;
+  }
+  
+  .fa-instagram {
+    background: #125688;
+    color: white;
+  }
+
+  
+  .rowfifth
+  {
+      padding: 20px;
+  }
+
+
+
+
+
+
+
+
